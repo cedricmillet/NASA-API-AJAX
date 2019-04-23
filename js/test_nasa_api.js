@@ -2,7 +2,7 @@
 //	Classe parente pour toutes les requetes via l'APi Nasa, les enfants seront Earth, Mars...)
 class API_NASA {
 	constructor() {
-		this.api_key = "IfKZTldVA2dOG6UunzXG9OvgSnmzaCtDdZdz8Duw";
+		this.api_key = "ENTREZ_ICI_VOTRE_CLE_API_NASA";
 	}
 
 	log(txt) {
