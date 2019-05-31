@@ -8,3 +8,7 @@ Pour plus d'infos sur les méthodes : https://api.nasa.gov/
 * Générer une clé api sur https://api.nasa.gov/index.html#apply-for-an-api-key
 * Entrer votre clé APi dans test_nasa_api.js
 * Enjoy !
+
+# DO TO LIST
+* Appliquer binarisation + soustraction pou constater evolution
+* Faire une carte animée de la déforestation
