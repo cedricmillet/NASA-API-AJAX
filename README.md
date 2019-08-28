@@ -10,5 +10,5 @@ Pour plus d'infos sur les méthodes : https://api.nasa.gov/
 * Enjoy !
 
 # DO TO LIST
-* Appliquer binarisation + soustraction pou constater evolution
+* Appliquer binarisation + soustraction pour constater evolution
 * Faire une carte animée de la déforestation
